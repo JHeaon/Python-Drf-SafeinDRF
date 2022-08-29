@@ -1,3 +1,3 @@
-# Project_safein_DRF
+# Hackathon SafeinDRF
 
-Safein 서버를 DRF구현한 리포지토리 입니다. 
+22/8/19 ~ 20 Hackathon SafeinDRF implementation
